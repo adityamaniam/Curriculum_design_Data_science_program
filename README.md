@@ -1,1 +1,2 @@
 # Curriculum_design_Data_science_program
+The project involves designing the curriculum for a masters program based on data science. To achieve this we scrapped the web for job postings (LinkedIn and Indeed) and online learning platforms (coursera) to get the in demand skills required for landing a job in the field of data science. With this data we were able to do clustering to decide on the course name and course content for the master's program
